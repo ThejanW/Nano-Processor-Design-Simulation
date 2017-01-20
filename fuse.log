@@ -1,0 +1,72 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe -prj C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor_NanoProcessor_sch_tb_beh.prj work.NanoProcessor_NanoProcessor_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Decoder_2to4.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/HA.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Decoder_3to8.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Reg_4bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/MUX_8to1.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/MUX_2to1.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/FA.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Reg8_bank.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Program_ROM.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/PC.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Mux_8way_4bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Mux_2way_4bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Mux_2way_3bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/LUT.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/ID.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Add_sub_unit_4bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/Adder_3bit.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor.vhf" into library work
+Parsing VHDL file "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/TB_NanoProcessor.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture nor4_v of entity NOR4 [nor4_default]
+Compiling architecture behavioral of entity ID_MUSER_NanoProcessor [id_muser_nanoprocessor_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity MUX_2to1_MUSER_NanoProcessor [mux_2to1_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity Mux_2way_4bit_MUSER_NanoProcessor [mux_2way_4bit_muser_nanoprocesso...]
+Compiling architecture xor2_v of entity XOR2 [xor2_default]
+Compiling architecture behavioral of entity HA_MUSER_NanoProcessor [ha_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity FA_MUSER_NanoProcessor [fa_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity Add_sub_unit_4bit_MUSER_NanoProcessor [add_sub_unit_4bit_muser_nanoproc...]
+Compiling architecture and3_v of entity AND3 [and3_default]
+Compiling architecture behavioral of entity Decoder_2to4_MUSER_NanoProcessor [decoder_2to4_muser_nanoprocessor...]
+Compiling architecture behavioral of entity Decoder_3to8_MUSER_NanoProcessor [decoder_3to8_muser_nanoprocessor...]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture behavioral of entity Reg_4bit_MUSER_NanoProcessor [reg_4bit_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity Reg8_bank_MUSER_NanoProcessor [reg8_bank_muser_nanoprocessor_de...]
+Compiling architecture fmap_v of entity FMAP [fmap_default]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture behavioral of entity OR8_MXILINX_NanoProcessor [or8_mxilinx_nanoprocessor_defaul...]
+Compiling architecture behavioral of entity MUX_8to1_MUSER_NanoProcessor [mux_8to1_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity Mux_8way_4bit_MUSER_NanoProcessor [mux_8way_4bit_muser_nanoprocesso...]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity Adder_3bit_MUSER_NanoProcessor [adder_3bit_muser_nanoprocessor_d...]
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture rom16x1_v of entity ROM16X1 [\ROM16X1("0000000010000100")(0,1...]
+Compiling architecture behavioral of entity Program_ROM_MUSER_NanoProcessor [program_rom_muser_nanoprocessor_...]
+Compiling architecture behavioral of entity Mux_2way_3bit_MUSER_NanoProcessor [mux_2way_3bit_muser_nanoprocesso...]
+Compiling architecture behavioral of entity PC_MUSER_NanoProcessor [pc_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity LUT_MUSER_NanoProcessor [lut_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity NanoProcessor [nanoprocessor_default]
+Compiling architecture behavioral of entity nanoprocessor_nanoprocessor_sch_...
+Time Resolution for simulation is 1ps.
+Waiting for 26 sub-compilation(s) to finish...
+Compiled 101 VHDL Units
+Built simulation executable C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe
+Fuse Memory Usage: 57984 KB
+Fuse CPU Usage: 2167 ms

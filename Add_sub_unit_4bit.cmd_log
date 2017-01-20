@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/rastr-tz/Desktop/nanoprocessor/Add_sub_unit_4bit.xst" -ofn "C:/Users/rastr-tz/Desktop/nanoprocessor/Add_sub_unit_4bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 Add_sub_unit_4bit.ngc Add_sub_unit_4bit.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Add_sub_unit_4bit_map.ncd Add_sub_unit_4bit.ngd Add_sub_unit_4bit.pcf 
+par -w -intstyle ise -ol high -t 1 Add_sub_unit_4bit_map.ncd Add_sub_unit_4bit.ncd Add_sub_unit_4bit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Add_sub_unit_4bit.twx Add_sub_unit_4bit.ncd -o Add_sub_unit_4bit.twr Add_sub_unit_4bit.pcf 

@@ -1,0 +1,6 @@
+sch2sym -intstyle ise -family spartan3e -refsym Mux_8way_4bit C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Mux_8way_4bit C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sym 
+sch2sym -intstyle ise -family spartan3e -w -refsym Mux_8way_4bit C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Mux_8way_4bit_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch 
+sch2sym -intstyle ise -family spartan3e -w -refsym Mux_8way_4bit C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Mux_8way_4bit_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/Mux_8way_4bit.sch 

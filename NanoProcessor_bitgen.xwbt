@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\rastr-tz\Desktop\edited\nanoprocessor\NanoProcessor.ncd
+OUTFILE=C:\Users\rastr-tz\Desktop\edited\nanoprocessor\NanoProcessor.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=C:\Users\rastr-tz\Desktop\edited\nanoprocessor
+LICENSE=WebPack
+USER_INFO=211099559_0_0_416

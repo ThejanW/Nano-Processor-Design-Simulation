@@ -1,0 +1,3 @@
+vhdl isim_temp "MUX_2to1.vhf"
+vhdl isim_temp "Mux_2way_3bit.vhf"
+vhdl isim_temp "TB_Mux_2way_3bit.vhd"

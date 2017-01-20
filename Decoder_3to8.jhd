@@ -1,0 +1,3 @@
+MODULE Decoder_3to8
+	SUBMODULE Decoder_2to4
+		INSTANCE XLXI_11

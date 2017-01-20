@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym Program_ROM C:/Users/rastr-tz/Desktop/nanoprocessor/Program_ROM.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Program_ROM.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Program_ROM_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/Program_ROM.sch 

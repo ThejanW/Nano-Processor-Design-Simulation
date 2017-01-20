@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym MUX_4to1 C:/Users/rastr-tz/Desktop/nanoprocessor/MUX_4to1.sch C:/Users/rastr-tz/Desktop/nanoprocessor/MUX_4to1.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MUX_4to1_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/MUX_4to1.sch 

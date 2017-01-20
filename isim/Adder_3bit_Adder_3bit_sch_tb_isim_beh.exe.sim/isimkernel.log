@@ -1,0 +1,29 @@
+Command line:
+   Adder_3bit_Adder_3bit_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1767
+
+Wed Dec 16 16:33:16 2015
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 482.48 Meg
+
+ Total Signals          : 129
+ Total Nets             : 45
+ Total Signal Drivers   : 18
+ Total Blocks           : 31
+ Total Primitive Blocks : 20
+ Total Processes        : 18
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 528
+Total Line Count : 21
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 325.194 Meg
+
+Wed Dec 16 16:33:36 2015
+

@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="nanoprocessor" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch</ClosedNode>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch/XLXI_12 - FA</ClosedNode>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch/XLXI_13 - FA</ClosedNode>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch/XLXI_14 - FA</ClosedNode>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch/XLXI_15 - FA</ClosedNode>
+         <ClosedNode>/Mux_8way_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Mux_8way_4bit.sch/XLXI_12 - MUX_8to1</ClosedNode>
+         <ClosedNode>/Mux_8way_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Mux_8way_4bit.sch/XLXI_9 - MUX_8to1</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_12 - Mux_2way_3bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_13 - Adder_3bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_19 - Reg8_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_21 - Mux_8way_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_22 - Mux_8way_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_8 - Mux_2way_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|rastr-tz|Desktop|nanoprocessor|NanoProcessor.sch/XLXI_9 - Add_sub_unit_4bit</ClosedNode>
+         <ClosedNode>/Reg8_bank C:|Users|rastr-tz|Desktop|nanoprocessor|Reg8_bank.sch</ClosedNode>
+         <ClosedNode>/Reg8_bank C:|Users|rastr-tz|Desktop|nanoprocessor|Reg8_bank.sch/XLXI_11 - Decoder_3to8</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000167000000020000000000000000000000000200000064ffffffff000000810000000300000002000001670000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NanoProcessor (C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008c0000000100000000000000240000000100000000000000660000000100000000000001670000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Mux_2way_3bit.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ID.sch</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000fb0000007301000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Generate Programming File</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Generate Programming File</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Add_sub_unit_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Add_sub_unit_4bit.sch</ClosedNode>
+         <ClosedNode>/ID_ID_sch_tb - behavioral C:|Documents and Settings|140701M|Desktop|nanoprocessor|TB_ID.vhd</ClosedNode>
+         <ClosedNode>/MUX_4to1 C:|Users|rastr-tz|Desktop|nanoprocessor|MUX_4to1.sch</ClosedNode>
+         <ClosedNode>/Mux_8way_4bit C:|Users|rastr-tz|Desktop|nanoprocessor|Mux_8way_4bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8way_4bit_Mux_8way_4bit_sch_tb - behavioral C:|Documents and Settings|140701M|Desktop|nanoprocessor|TB_Mux_8way_4bit.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|140701M|Desktop|nanoprocessor|TB_Main.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/Program_ROM_Program_ROM_sch_tb - behavioral C:|Users|rastr-tz|Desktop|nanoprocessor|TB_Program_ROM.vhd</ClosedNode>
+         <ClosedNode>/Reg8_bank C:|Users|rastr-tz|Desktop|nanoprocessor|Reg8_bank.sch</ClosedNode>
+         <ClosedNode>/Reg8_bank_Reg8_bank_sch_tb - behavioral C:|Documents and Settings|140701M|Desktop|nanoprocessor|TB_Reg8_bank.vhd</ClosedNode>
+         <ClosedNode>/Reg8_bank_Reg8_bank_sch_tb - behavioral C:|Users|rastr-tz|Desktop|nanoprocessor|TB_Reg8_bank.vhd/UUT - Reg8_bank/XLXI_11 - Decoder_3to8</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (C:/Users/rastr-tz/Desktop/edited/nanoprocessor/TB_NanoProcessor.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >43</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000020a000000020000000000000000000000000200000064ffffffff0000008100000003000000020000020a0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (C:/Users/rastr-tz/Desktop/edited/nanoprocessor/TB_NanoProcessor.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xc3s100e-4cp132</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013f000000020000000000000000000000000000000064ffffffff000000810000000000000002000000cf0000000100000000000000700000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>xc3s100e-4cp132</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Decoder_2to4.sch (C:/Users/rastr-tz/Desktop/nanoprocessor/Decoder_2to4.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000141000000020000000000000000000000000000000064ffffffff000000810000000000000002000000d10000000100000000000000700000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Decoder_2to4.sch (C:/Users/rastr-tz/Desktop/nanoprocessor/Decoder_2to4.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

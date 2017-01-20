@@ -1,0 +1,5 @@
+vhdl isim_temp "Decoder_2to4.vhf"
+vhdl isim_temp "Decoder_3to8.vhf"
+vhdl isim_temp "MUX_8to1.vhf"
+vhdl isim_temp "Mux_8way_4bit.vhf"
+vhdl isim_temp "TB_Mux_8way_4bit.vhd"

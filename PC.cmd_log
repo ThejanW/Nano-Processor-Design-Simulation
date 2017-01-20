@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym PC C:/Users/rastr-tz/Desktop/nanoprocessor/PC.sch C:/Users/rastr-tz/Desktop/nanoprocessor/PC.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl PC_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/PC.sch 

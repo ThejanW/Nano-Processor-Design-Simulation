@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe" -prj "C:/Users/rastr-tz/Desktop/edited/nanoprocessor/NanoProcessor_NanoProcessor_sch_tb_beh.prj" "work.NanoProcessor_NanoProcessor_sch_tb" 

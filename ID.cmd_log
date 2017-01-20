@@ -1,0 +1,10 @@
+sch2sym -intstyle ise -family spartan3e -refsym ID C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 
+sch2sym -intstyle ise -family spartan3e -w -refsym ID C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 
+sch2sym -intstyle ise -family spartan3e -w -refsym ID C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 
+sch2sym -intstyle ise -family spartan3e -w -refsym ID C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl ID_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/ID.sch 

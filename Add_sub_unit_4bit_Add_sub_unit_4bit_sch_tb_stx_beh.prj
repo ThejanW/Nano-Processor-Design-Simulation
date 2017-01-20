@@ -1,0 +1,4 @@
+vhdl isim_temp "HA.vhf"
+vhdl isim_temp "FA.vhf"
+vhdl isim_temp "Add_sub_unit_4bit.vhf"
+vhdl isim_temp "TB_Add_sub_unit_4bit.vhd"

@@ -1,0 +1,5 @@
+vhdl isim_temp "Decoder_2to4.vhf"
+vhdl isim_temp "Reg_4bit.vhf"
+vhdl isim_temp "Decoder_3to8.vhf"
+vhdl isim_temp "Reg8_bank.vhf"
+vhdl isim_temp "TB_Reg8_bank.vhd"

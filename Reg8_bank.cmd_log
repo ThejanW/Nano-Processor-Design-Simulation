@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym Reg8_bank C:/Users/rastr-tz/Desktop/nanoprocessor/Reg8_bank.sch C:/Users/rastr-tz/Desktop/nanoprocessor/Reg8_bank.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Reg8_bank_drc.vhf -w C:/Users/rastr-tz/Desktop/nanoprocessor/Reg8_bank.sch 
